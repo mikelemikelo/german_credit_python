@@ -222,7 +222,7 @@
       "driftCandidate": true,
       "specialValues": [],
       "scoringOptional": true,
-      "postiveClassLabel":1
+      "positiveClassLabel":1
     },
     {
       "name": "score",
