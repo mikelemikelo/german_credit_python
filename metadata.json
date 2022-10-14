@@ -1,10 +1,10 @@
 {
 	"roi":{
-		"baselineMetricsTNR": 
-    		"baselineMetricsTPR": 
-    		"costMultipliersTP": 
-    		"costMultipliersFP": 
-    		"costMultipliersTN": 
+		"baselineMetricsTNR": ,
+    		"baselineMetricsTPR": ,
+    		"costMultipliersTP": ,
+    		"costMultipliersFP": ,
+    		"costMultipliersTN": ,
     		"costMultipliersFN": 
 	},
 	"custom": {
